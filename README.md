@@ -1,21 +1,36 @@
 # Hi, I'm Essraa 👋
 
-💻 Full-Stack Developer (Backend-focused)
+💻 Backend & Systems Engineer  
 📍 Germany (Open to relocation)
 
 ## 🚀 About Me
-I build backend and distributed systems, and I’m currently expanding into full-stack development using modern TypeScript-based stacks.
+I’m a Master’s student in Computer Science with a strong focus on backend systems, containerized infrastructure, and network automation.
+
+I have experience working with system-level programming, container management, and web development, and I enjoy building complete, reliable systems.
 
 ## 🛠️ Tech Stack
-- Python, C, JavaScript / TypeScript
-- Docker, Linux
+
+### Backend & Systems
+- Python, C
 - REST APIs
-- YANG / NETCONF
-- Git
+- Distributed systems concepts
+
+### DevOps & Infrastructure
+- Docker
+- Linux environments
+- CI/CD concepts
+- Infrastructure basics
+
+### Web Development
+- JavaScript, PHP
+- HTML, CSS
+- Flutter (UI for cross-platform apps)
+
+### Networking & Automation
+- YANG / NETCONF / Sysrepo
 
 ## 🔧 Current Work
-Model-driven container management system using YANG/NETCONF and Docker.
+Model-driven management of containerized applications using YANG and NETCONF (Master Thesis project).
 
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/essraa-hassanin/
-- GitHub: https://github.com/esraarozika
