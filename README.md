@@ -29,8 +29,8 @@ I have experience working with system-level programming, container management, a
 ### Networking & Automation
 - YANG / NETCONF / Sysrepo
 
-## 🔧 Current Work
-Model-driven management of containerized applications using YANG and NETCONF (Master Thesis project).
+## 🔧 Current Work (Master Thesis)
+Model-driven management of containerized applications using YANG and NETCONF, including runtime configuration and container lifecycle control.
 
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/essraa-hassanin/
